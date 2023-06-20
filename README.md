@@ -9,4 +9,4 @@ Bu proje, Titanic veri seti üzerinde hayatta kalma oranlarını tahmin etmek i�
 
 ## Model: Random Forest
 
-Bu projede, Random Forest algoritması kullanılarak bir sınıflandırma modeli oluşturulmuştur. Random Forest, birden fazla karar ağacını kullanarak verileri analiz eder ve toplu olarak tahmin yapar. 
+Bu projede, Random Forest algoritması kullanılarak bir sınıflandırma modeli oluşturulmuştur. Random Forest, birden fazla karar ağacını kullanarak verileri analiz eder ve toplu olarak tahmin yapar.   
